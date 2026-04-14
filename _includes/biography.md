@@ -1,0 +1,3 @@
+<h2 style="margin: 60px 0px 10px;">Biography</h2>
+
+Lei Chen, Ph.D. candidate at the School of Life Sciences, East China Normal University, majoring in Biochemistry and Molecular Biology. His research focuses on bio-based materials, nanocellulose, hemostasis and wound healing, and material recycling. He has developed superhydrophobic nanocellulose materials for wound hemostasis, explored biomass aerogels with in-situ grown nanozeolites, and studied inorganic composite materials for hemostatic applications. Lei is skilled in advanced experimental techniques, cell culture, animal models, and scientific software. He is also an active member of academic societies and has received multiple honors and scholarships.
