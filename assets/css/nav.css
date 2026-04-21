@@ -1,15 +1,18 @@
 /* Top navigation */
 .topnav {
   background-color: #003F88; /* Truth-seeking blue: RGB(0, 63, 136) */
-    overflow: hidden;
+    overflow: visible;
 	  position:fixed;
 	  z-index:999;
     width:100%;
+    min-height: 56px;
   }
 
 
   .topnav #myLinks {
     display: inline;
+    position: relative;
+    z-index: 2;
   }
 
 .topnav a.icon {
@@ -130,6 +133,12 @@
 
     .topnav #myLinks {
         display: none;
+        position: absolute;
+        top: 56px;
+        left: 0;
+        right: 0;
+        background-color: #003F88;
+        box-shadow: 0 6px 14px rgba(0, 20, 48, 0.28);
       }
 
       .topnav img {
@@ -142,31 +151,38 @@
       .topnav a.normal {
         color: #ffffff;
         float: none;
-        padding: 14px 16px;
+        padding: 12px 16px;
         text-decoration: none;
         font-size: 17px;
         display: block;
+        text-align: left;
+        border-top: 1px solid rgba(255, 255, 255, 0.16);
+        background-color: #003F88;
       }
 
       .topnav a.icon {
         color: #ffffff;
         display: block;
-        padding: 10px 16px;
+        padding: 8px 12px;
         font-size: 17px;
         position: absolute;
         float: right;
         right: 0;
-        top: 0;
-        margin-right:5%;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-right: 8px;
       }
 
       .topnav a.right {
         color: #ffffff;
         float: none;
-        padding: 14px 16px;
+        padding: 12px 16px;
         text-decoration: none;
         font-size: 17px;
         display: block;
+        text-align: left;
+        border-top: 1px solid rgba(255, 255, 255, 0.16);
+        background-color: #003F88;
         margin-right:0;
       }
    }
