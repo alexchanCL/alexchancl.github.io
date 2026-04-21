@@ -7,13 +7,6 @@
     width:100%;
   }
 
-.topnav > a:first-child {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    transform: translateX(-50%);
-}
-
 
   .topnav #myLinks {
     display: inline;
@@ -24,10 +17,12 @@
 }
 
   .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
-    margin-left:0 !important;
-    transform: none !important;
+    position: absolute;
+    top: 50%;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left:30%;
+    transform: translateY(-50%);
     display: block;
   }
   
@@ -139,9 +134,9 @@
 
       .topnav img {
         margin-left: 50%;
-        transform: translateX(-50%);
-        margin-top: -12.5pt;
-        margin-bottom: -16.5pt;
+        margin-top: 0;
+        margin-bottom: 0;
+        transform: translate(-50%, -50%);
       }
 
       .topnav a.normal {
