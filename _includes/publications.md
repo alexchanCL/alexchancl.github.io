@@ -19,7 +19,7 @@
 </ol>
 
 <h3>Patents</h3>
-<ul>
+<ul style="margin: 0; padding-left: 20px; text-align: justify;">
     <li>Qiang Zhang; Lei Chen; Zhiping Jin; Yichen Tian. A Preparation Method and Hemostatic Application of Nanocellulose Aerogel with In-situ Grown Nanozeolite. 202510141274.0</li>
     <li>Qiang Zhang; Zhiping Jin; Lei Chen. Preparation and Hemostatic Application of Calcium Ion-Bonded Carboxymethyl Nanocellulose Gauze. 202510497801.1</li>
     <li>Qiang Zhang; Yichen Tian; Tao Li; Lei Chen. Colored Cellulose Nanoparticles and Their Preparation Method and Application. 202410928182.2</li>
