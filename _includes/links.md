@@ -4,7 +4,7 @@
 
 <h4 style="margin:0 10px 0;">Tools</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px; padding-left: 20px;">
 
   <li><strong>Science and Engineering Journal Abbreviations</strong>, an online tool for looking up journal name abbreviations. [<a href="https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/" target="_blank" rel="noopener noreferrer"><autocolor>Link</autocolor></a>]</li>
 
@@ -14,7 +14,7 @@
 
 <h4 style="margin:0 10px 0;">ZJU Resources</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px; padding-left: 20px;">
 
   <li><strong>ZJU Postdoctoral Portal</strong>, official Zhejiang University postdoctoral affairs and recruitment information. [<a href="https://hr.zju.edu.cn/postdoctor/" target="_blank" rel="noopener noreferrer"><autocolor>Link</autocolor></a>]</li>
 

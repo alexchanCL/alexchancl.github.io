@@ -4,7 +4,7 @@
   <span><strong>Ph.D.</strong> in Biomaterials</span>
   <span>Sep. 2019 - Jun. 2025</span>
 </div>
-<ul style="font-size: 0.95em; margin-top: 2px; padding-left: 16px;">
+<ul style="font-size: 0.95em; margin: 2px 0 20px; padding-left: 20px;">
   <li>School of Life Sciences, <strong>East China Normal University</strong>.</li>
   <li>Supervisor: Prof. Qiang Zhang</li>
   <li>GPA: 3.60/4.00</li>
@@ -14,7 +14,7 @@
   <span><strong>B.Sc.</strong> in Applied Chemistry</span>
   <span>Sep. 2015 - Jun. 2019</span>
 </div>
-<ul style="font-size: 0.95em; margin-top: 2px; padding-left: 16px;">
+<ul style="font-size: 0.95em; margin: 2px 0 20px; padding-left: 20px;">
   <li>College of Science, <strong>Zhejiang A&F University</strong>.</li>
   <li>GPA: 88.6/100 (Ranked 1st in major)</li>
 </ul>
