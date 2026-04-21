@@ -1,6 +1,6 @@
 /* Top navigation */
 .topnav {
-  background-color: rgb(91, 120, 162);
+  background-color: #003F88; /* Truth-seeking blue: RGB(0, 63, 136) */
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
@@ -29,7 +29,7 @@
   /* Style the links inside the navigation bar */
   .topnav a.normal {
     float: right;
-    color: #0f3b78;
+    color: #ffffff;
     text-align: center;
     padding: 10px 9px;
     text-decoration: none;
@@ -38,8 +38,8 @@
   
   /* Change the color of links on hover */
   .topnav a.normal:hover {
-    background-color: #adc9eb;
-    color: #0b2f5a;
+    background-color: #0050ad;
+    color: #ffffff;
   }
   
   /* Add a color to the active/current link */
@@ -140,7 +140,7 @@
       }
 
       .topnav a.normal {
-        color: #0f3b78;
+        color: #ffffff;
         float: none;
         padding: 14px 16px;
         text-decoration: none;
@@ -149,7 +149,7 @@
       }
 
       .topnav a.icon {
-        color: #0f3b78;
+        color: #ffffff;
         display: block;
         padding: 10px 16px;
         font-size: 17px;
@@ -161,7 +161,7 @@
       }
 
       .topnav a.right {
-        color: #0f3b78;
+        color: #ffffff;
         float: none;
         padding: 14px 16px;
         text-decoration: none;
