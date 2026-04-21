@@ -10,6 +10,10 @@
 
   <li><strong>IEEE BibTeX Modifier</strong>, an online tool for optimizing and modifying IEEE journal bib references. [<a href="https://mepeichun.github.io/ieee-bibtex-modifier/" target="_blank" rel="noopener noreferrer"><autocolor>Link</autocolor></a>]</li>
 
+  <li><strong>ZJU Postdoctoral Portal</strong>, official Zhejiang University postdoctoral affairs and recruitment information. [<a href="https://hr.zju.edu.cn/postdoctor/" target="_blank" rel="noopener noreferrer"><autocolor>Link</autocolor></a>]</li>
+
+  <li><strong>ZJU International Campus Weekly Menu</strong>, Campus Operations Center weekly menu and campus service information. [<a href="https://coc.intl.zju.edu.cn/zh-hans/content/874905" target="_blank" rel="noopener noreferrer"><autocolor>Link</autocolor></a>]</li>
+
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Video</h4>
