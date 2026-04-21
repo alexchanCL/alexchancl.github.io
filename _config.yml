@@ -23,11 +23,12 @@ google_scholar: https://scholar.google.com/citations?user=VTr6EA4AAAAJ&hl=en
 orcid: https://orcid.org/0000-0003-2732-223X
 researchgate: https://www.researchgate.net/profile/Lei-Chen-376
 linkedin: https://www.linkedin.com/in/alexchancl
+#twitter: https://twitter.com/
+cv_link: ./assets/files/Lei_Chen_CV.pdf
 #github_link: https://github.com/alexchancl
 clarivate: https://www.webofscience.com/wos/author/rid/AGD-1835-2022
 scopus: https://www.scopus.com/authid/detail.uri?authorId=57770630500
-#twitter: https://twitter.com/
-cv_link: ./assets/files/Lei_Chen_CV.pdf
+
 
 # Images 
 avatar: ./assets/img/lei.png
