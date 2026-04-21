@@ -1,11 +1,18 @@
 /* Top navigation */
 .topnav {
-  background-color: #dcecff; /* ZJU light blue */
+  background-color: #c6ddf6; /* deeper ZJU light blue */
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
     width:100%;
   }
+
+.topnav > a:first-child {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+}
 
 
   .topnav #myLinks {
@@ -19,8 +26,8 @@
   .topnav img {
     margin-bottom:-16.5pt;
     margin-top:-12.5pt;
-    margin-left:50% !important;
-    transform: translateX(-50%) !important;
+    margin-left:0 !important;
+    transform: none !important;
     display: block;
   }
   
@@ -36,7 +43,7 @@
   
   /* Change the color of links on hover */
   .topnav a.normal:hover {
-    background-color: #c7ddff;
+    background-color: #adc9eb;
     color: #0b2f5a;
   }
   
