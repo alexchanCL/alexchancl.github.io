@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[Copyrights are held by the respective publishers]</temp></h2>
 
-<ul style="margin: 0; padding-left: 0; list-style-position: inside; text-align: justify;">
+<ol style="margin: 0; padding-left: 20px; text-align: justify;">
     <li>Wang, J.; Chang, Y.; Liu, X.; <strong>Chen, L.</strong>; Tian, Y.; Huang, X.; Zhang, Q. A Highly Ductile and Multifunctional Cellulose/CaCl<sub>2</sub> Composite Film for Humidity-Responsive Wearable Sensors. <em>Int. J. Biol. Macromol.</em> 2026, 358, 151743. DOI: <a href="https://doi.org/10.1016/j.ijbiomac.2026.151743" target="_blank">10.1016/j.ijbiomac.2026.151743</a></li>
     <li>Liu, X.; Tian, Y.; Kang, S.; Jin, Z.; <strong>Chen, L.</strong>; Lu, Q.; Wang, L.; Zhang, Q. Mechanically Robust, Forgeable, and Machinable Cellulose Hydrogel. <em>ACS Sustain. Chem. Eng.</em> 2026. DOI: <a href="https://doi.org/10.1021/acssuschemeng.5c13794" target="_blank">10.1021/acssuschemeng.5c13794</a></li>
     <li>Xia, R.; Wang, L.; <strong>Chen, L.</strong>; Liu, X.; Chang, Y.; Tian, Y.; Jin, Z.; Zhang, Q. Facile Synthesis of Regenerated Chitosan Nanowhiskers with Concentration-Dependent Self-Assembly Behavior. <em>Carbohydr. Polym.</em> 2026, 124615. DOI: <a href="https://doi.org/10.1016/j.carbpol.2025.124615" target="_blank">10.1016/j.carbpol.2025.124615</a></li>
@@ -16,7 +16,7 @@
     <li>Tian, Y.; Kong, Y.; Liu, X.; <strong>Chen, L.</strong>; Wang, L.; Zhou, L.; Wang, G.; Zhang, Q. Regenerated Carboxymethyl Cellulose Beads for Selective Removal of Low-Density Lipoprotein from Whole Blood. <em>Carbohydr. Polym.</em> 2025, 348, 122848. DOI: <a href="https://doi.org/10.1016/j.carbpol.2024.122848" target="_blank">10.1016/j.carbpol.2024.122848</a></li>
     <li>Liu, X.; Tian, Y.; Wang, L.; <strong>Chen, L.</strong>; Jin, Z.; Zhang, Q. A Cost-Effective and Chemical-Recycling Approach for Facile Preparation of Regenerated Cellulose Materials. <em>Nano Lett.</em> 2024, 24 (29), 9074–9081. DOI: <a href="https://doi.org/10.1021/acs.nanolett.4c02351" target="_blank">10.1021/acs.nanolett.4c02351</a></li>
     <li>Pan, S.; Li, Y.; Tong, X.; <strong>Chen, L.</strong>; Wang, L.; Li, T.; Zhang, Q. Strongly-Adhesive Easily-Detachable Carboxymethyl Cellulose Aerogel for Noncompressible Hemorrhage Control. <em>Carbohydr. Polym.</em> 2023, 301, 120324. DOI: <a href="https://doi.org/10.1016/j.carbpol.2022.120324" target="_blank">10.1016/j.carbpol.2022.120324</a></li>
-</ul>
+</ol>
 
 <h3>Patents</h3>
 <ul>
