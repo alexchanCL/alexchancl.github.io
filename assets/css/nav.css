@@ -1,7 +1,6 @@
 /* Top navigation */
 .topnav {
-    background-color: #fff; /* unified with page background */
-    /* removed bottom border to keep original seamless look */
+    background-color: #C8102E; /* ZJU red */
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
@@ -26,7 +25,7 @@
   /* Style the links inside the navigation bar */
   .topnav a.normal {
     float: right;
-    color: #595959; /* match body text color */
+    color: #ffffff; /* white text on red background */
     text-align: center;
     padding: 10px 9px;
     text-decoration: none;
