@@ -1,6 +1,6 @@
 /* Top navigation */
 .topnav {
-  background-color: #c6ddf6; /* deeper ZJU light blue */
+  background-color: rgb(91, 120, 162);
     overflow: hidden;
 	  position:fixed;
 	  z-index:999;
