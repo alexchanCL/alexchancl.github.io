@@ -155,6 +155,11 @@
 
         {% if site.link_type == 'icon' %}
         <div class="social-icons">
+        {% if site.cv_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank" rel="noopener noreferrer">
+          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
         {% if site.email %}
         <a style="margin: 0 5px 0 0" href="mailto:{{ site.email }}">
           <i class="fa-solid fa-envelope" aria-hidden="true"></i>
@@ -163,16 +168,6 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">
           <i class="fas fa-graduation-cap" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-        {% if site.orcid %}
-        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}" target="_blank" rel="noopener noreferrer">
-          <i class="ai ai-orcid" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank" rel="noopener noreferrer">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
         {% if site.researchgate %}
@@ -180,6 +175,12 @@
           <i class="fab fa-researchgate" style="font-size:1.3rem"></i>
         </a>
         {% endif %}
+        {% if site.linkedin %}
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        {% endif %}
+        <br style="display:block; margin: 4px 0;">
         {% if site.clarivate %}
         <a style="margin: 0 5px 0 0" href="{{ site.clarivate }}" target="_blank" rel="noopener noreferrer">
           <i class="ai ai-clarivate" style="font-size:1.3rem;"></i>
@@ -190,18 +191,18 @@
           <i class="ai ai-scopus" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}" target="_blank" rel="noopener noreferrer">
+          <i class="ai ai-orcid" style="font-size:1.3rem;"></i>
+        </a>
+        {% endif %}
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}" target="_blank" rel="noopener noreferrer">
+        <a style="margin: 0 5px 0 0" href="{{ site.twitter }}" target="_blank" rel="noopener noreferrer">
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
