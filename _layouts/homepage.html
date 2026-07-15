@@ -4,25 +4,25 @@
     <title>{{ site.title }} | {{ site.affiliation }}</title>
 
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <meta name="description" content="{{ site.title }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ site.description | escape }}">
     <meta name="keywords" content="{{ site.keywords }}">
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
-    <meta property="og:url" content="{{ site.canonical }}">
+    <meta property="og:url" content="{{ '/' | absolute_url }}">
     <meta property="og:site_name" content="{{ site.title }} | {{ site.affiliation }}">
     <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:locale" content="default">
-    <meta property="og:image" content="{{ site.avatar }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="{{ site.avatar | absolute_url }}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="{{ site.avatar }}">
+    <meta name="twitter:image" content="{{ site.avatar | absolute_url }}">
 
-    <link rel="canonical" href="{{site.canonical}}"/>
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <link rel="canonical" href="{{ '/' | absolute_url }}"/>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark | relative_url }}" type="image/x-icon" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon | relative_url }}" type="image/x-icon" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -49,24 +49,11 @@
     </script>
 
    <script>
-      function myFunction() {
-      var x = document.getElementById("myLinks");
-      if (x.style.display === "block") {
-        x.style.display = "none";
-      } else {
-        x.style.display = "block";
-        
+      function myFunction(trigger) {
+        var links = document.getElementById("myLinks");
+        var isOpen = links.classList.toggle("is-open");
+        trigger.setAttribute("aria-expanded", String(isOpen));
       }
-      }
-
-      function reverseLinks() {
-    var container = document.getElementById("myLinks");
-    var links = Array.from(container.getElementsByTagName('a'));
-    container.innerHTML = '';
-    for (var i = links.length - 1; i >= 0; i--) {
-      container.appendChild(links[i]);
-    }
-  }
    </script>
    
    
@@ -76,13 +63,13 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo | relative_url }}" alt="Zhejiang University"></a>
 
       <div id="myLinks">
       {% include navigation-home.md %}
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
+      <a href="javascript:void(0);" class="icon" aria-label="Toggle navigation" aria-controls="myLinks" aria-expanded="false" onclick="myFunction(this)">
         <i class="fa fa-bars"></i>
       </a>
       

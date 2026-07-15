@@ -133,12 +133,17 @@
 
     .topnav #myLinks {
         display: none;
+        flex-direction: column-reverse;
         position: absolute;
         top: 56px;
         left: 0;
         right: 0;
         background-color: #003F88;
         box-shadow: 0 6px 14px rgba(0, 20, 48, 0.28);
+      }
+
+      .topnav #myLinks.is-open {
+        display: flex;
       }
 
       .topnav img {
@@ -187,4 +192,3 @@
       }
    }
    
-

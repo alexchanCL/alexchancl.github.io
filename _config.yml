@@ -4,14 +4,16 @@ position: Postdoctoral Fellow
 department: Zhejiang University-University of Edinburgh Institute
 affiliation: Zhejiang University
 affiliation_link: https://www.zju.edu.cn/
-affiliation_logo: ./assets/img/ZJU.png
+affiliation_logo: /assets/img/ZJU.png
 location: Hangzhou, China
 email: leic@intl.zju.edu.cn
 
 # Search Engine Optimization (SEO)
 keywords: lei chen, chen lei, leichen, chenlei, alexchancl, nanocellulose, biomaterials, hemostasis
+url: https://alexchancl.github.io
+baseurl: ""
 canonical: https://alexchancl.github.io/
-description: Lei Chen is a Postdoctoral Fellowat Zhejiang University. His research focuses on bio-based materials, nanocellulose, hemostasis and wound healing, and material recycling.
+description: Lei Chen is a Postdoctoral Fellow at Zhejiang University. His research focuses on bio-based materials, nanocellulose, hemostasis and wound healing, and material recycling.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -19,7 +21,7 @@ enable_hopkins_logo: true
 
 # Links
 link_type: icon #text/icon
-cv_link: ./assets/files/Lei_Chen_CV.pdf
+cv_link: /assets/files/Lei_Chen_CV.pdf
 google_scholar: https://scholar.google.com/citations?user=VTr6EA4AAAAJ&hl=en
 researchgate: https://www.researchgate.net/profile/Lei-Chen-376
 linkedin: https://www.linkedin.com/in/alexchancl
@@ -31,9 +33,9 @@ github_link: https://github.com/alexchancl
 
 
 # Images 
-avatar: ./assets/img/lei.png
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+avatar: /assets/img/lei.png
+favicon: /assets/img/favicon.ico
+favicon_dark: /assets/img/favicon.ico
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
@@ -44,7 +46,7 @@ enable_last_update: true
 
 # Footnotes
 footnote: Lei Chen © 2025 - 2026
-# footnote_link: https://quinyim.github.io/
+# footnote_link: https://alexchancl.github.io/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 

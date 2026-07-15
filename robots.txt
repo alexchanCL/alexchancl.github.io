@@ -15,4 +15,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://quinyim.github.io/sitemap.xml
+Sitemap: https://alexchancl.github.io/sitemap.xml

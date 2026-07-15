@@ -1,8 +1,9 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[Copyrights are held by the respective publishers]</temp></h2>
+<h2 style="margin: 60px 0px 10px;">Publications <span style="font-size:15px;">[Copyrights are held by the respective publishers]</span></h2>
 
 <ol style="margin: 0; padding-left: 20px; text-align: justify;">
+    <li><strong>Chen, L.</strong>; Xia, R.; Jin, Z.; Li, W.; Wang, G.; Zhang, Q. Calcium-releasing silica-coated cellulose nanofiber aerogel for safe and efficient hemostasis. <em>Biomater. Adv.</em> 2026, 215061. DOI: <a href="https://doi.org/10.1016/j.bioadv.2026.215061" target="_blank" rel="noopener noreferrer">10.1016/j.bioadv.2026.215061</a></li>
     <li>Wang, J.; Chang, Y.; Liu, X.; <strong>Chen, L.</strong>; Tian, Y.; Huang, X.; Zhang, Q. A Highly Ductile and Multifunctional Cellulose/CaCl<sub>2</sub> Composite Film for Humidity-Responsive Wearable Sensors. <em>Int. J. Biol. Macromol.</em> 2026, 358, 151743. DOI: <a href="https://doi.org/10.1016/j.ijbiomac.2026.151743" target="_blank">10.1016/j.ijbiomac.2026.151743</a></li>
     <li>Liu, X.; Tian, Y.; Kang, S.; Jin, Z.; <strong>Chen, L.</strong>; Lu, Q.; Wang, L.; Zhang, Q. Mechanically Robust, Forgeable, and Machinable Cellulose Hydrogel. <em>ACS Sustain. Chem. Eng.</em> 2026. DOI: <a href="https://doi.org/10.1021/acssuschemeng.5c13794" target="_blank">10.1021/acssuschemeng.5c13794</a></li>
     <li>Xia, R.; Wang, L.; <strong>Chen, L.</strong>; Liu, X.; Chang, Y.; Tian, Y.; Jin, Z.; Zhang, Q. Facile Synthesis of Regenerated Chitosan Nanowhiskers with Concentration-Dependent Self-Assembly Behavior. <em>Carbohydr. Polym.</em> 2026, 124615. DOI: <a href="https://doi.org/10.1016/j.carbpol.2025.124615" target="_blank">10.1016/j.carbpol.2025.124615</a></li>
