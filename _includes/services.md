@@ -16,13 +16,18 @@
 
 
 <h4 style="margin:0 10px 0;">Peer Review</h4>
+<p style="margin:0 0 10px;">
+  Reviewed 14 papers for nine MDPI journals during 2025–2026.
+  [<a href="{{ '/assets/files/reviewer-certificates/MDPI_Reviewer_Certificate_2025-2026.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Certificate</a>]
+</p>
 <ul style="margin:0 0 20px; padding-left: 20px;">
-  <li><em>Gels</em></li>
-  <li><em>Journal of Clinical Medicine</em></li>
-  <li><em>Applied Sciences</em></li>
-  <li><em>Materials</em></li>
+  <li><em>Chemistry</em></li>
   <li><em>International Journal of Molecular Sciences</em></li>
+  <li><em>Microorganisms</em></li>
   <li><em>Journal of Functional Biomaterials</em></li>
   <li><em>Oral</em></li>
-  <li><em>Microorganisms</em></li>
+  <li><em>Journal of Clinical Medicine</em></li>
+  <li><em>Applied Sciences</em></li>
+  <li><em>Gels</em></li>
+  <li><em>Materials</em></li>
 </ul>
