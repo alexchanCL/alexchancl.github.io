@@ -108,6 +108,7 @@ section dd,
 
 .news-list .news-date {
   flex: 0 0 96px;
+  position: relative;
   white-space: nowrap;
 }
 
@@ -119,8 +120,11 @@ section dd,
 .news-list .news-marker {
   color: #d4a017 !important;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.75em;
-  margin-right: 0.2em;
+  font-size: 0.7em;
+  left: -0.75em;
+  line-height: 1;
+  position: absolute;
+  top: -0.3em;
 }
 
 h1, h2, h3 { line-height: 1.1; }
