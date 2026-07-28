@@ -117,8 +117,10 @@ section dd,
 }
 
 .news-list .news-marker {
-  color: #c69214;
-  margin-right: 0.35em;
+  color: #d4a017 !important;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.75em;
+  margin-right: 0.2em;
 }
 
 h1, h2, h3 { line-height: 1.1; }
