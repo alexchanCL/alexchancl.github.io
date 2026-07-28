@@ -116,6 +116,11 @@ section dd,
   min-width: 0;
 }
 
+.news-list .news-marker {
+  color: #c69214;
+  margin-right: 0.35em;
+}
+
 h1, h2, h3 { line-height: 1.1; }
 
 h1 { font-size: 28px; }
