@@ -1,7 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul class="news-list">
-  <li><span class="news-date"><strong>[Jul. 2026]</strong><sup class="news-marker" aria-label="New">★&#xfe0e;</sup></span><span class="news-content">Received support from the <strong>Postdoctoral Fellowship Program (Grade C)</strong> of the China Postdoctoral Science Foundation.</span></li>
+  <li><span class="news-date"><strong>[Jul. 2026]</strong><sup class="news-marker" aria-label="New">★&#xfe0e;</sup></span><span class="news-content">Published research on zeolite-mimetic hemostatic gauze based on calcium-chelated cellulose nanofibers in <strong>Small</strong>.</span></li>
+  <li><span class="news-date"><strong>[Jul. 2026]</strong></span><span class="news-content">Received support from the <strong>Postdoctoral Fellowship Program (Grade C)</strong> of the China Postdoctoral Science Foundation.</span></li>
   <li><span class="news-date"><strong>[Jul. 2026]</strong></span><span class="news-content">Published research on calcium-releasing silica-coated cellulose nanofiber aerogel for hemostasis in <strong>Biomaterials Advances</strong>.</span></li>
   <li><span class="news-date"><strong>[Mar. 2026]</strong></span><span class="news-content">Published research on humidity-responsive wearable cellulose sensors in <strong>International Journal of Biological Macromolecules</strong>.</span></li>
   <li><span class="news-date"><strong>[Mar. 2026]</strong></span><span class="news-content">Published research on mechanically robust and forgeable cellulose hydrogel in <strong>ACS Sustainable Chemistry &amp; Engineering</strong>.</span></li>
